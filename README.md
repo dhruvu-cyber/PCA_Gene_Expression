@@ -1,4 +1,4 @@
-<img width="993" height="610" alt="pca" src="https://github.com/user-attachments/assets/7cbc5bc4-f52d-44db-a268-90bb9d0d8539" />
+
 # PCA on gene expression data
 
 A simple intuition between two different labels is the color use to paint them.
